@@ -1,0 +1,10 @@
+c:\users\li915d\documents\visual studio 2013\Projects\CS311_FinalProject_KMR\CS311_FinalProject_KMR\bin\Debug\CS311_FinalProject_KMR.exe.config
+c:\users\li915d\documents\visual studio 2013\Projects\CS311_FinalProject_KMR\CS311_FinalProject_KMR\bin\Debug\CS311_FinalProject_KMR.exe
+c:\users\li915d\documents\visual studio 2013\Projects\CS311_FinalProject_KMR\CS311_FinalProject_KMR\bin\Debug\CS311_FinalProject_KMR.pdb
+c:\users\li915d\documents\visual studio 2013\Projects\CS311_FinalProject_KMR\CS311_FinalProject_KMR\bin\Debug\CS311_FinalProject_KMR.xml
+c:\users\li915d\documents\visual studio 2013\Projects\CS311_FinalProject_KMR\CS311_FinalProject_KMR\obj\Debug\CS311_FinalProject_KMR.UnitConverter.resources
+c:\users\li915d\documents\visual studio 2013\Projects\CS311_FinalProject_KMR\CS311_FinalProject_KMR\obj\Debug\CS311_FinalProject_KMR.Resources.resources
+c:\users\li915d\documents\visual studio 2013\Projects\CS311_FinalProject_KMR\CS311_FinalProject_KMR\obj\Debug\CS311_FinalProject_KMR.vbproj.GenerateResource.Cache
+c:\users\li915d\documents\visual studio 2013\Projects\CS311_FinalProject_KMR\CS311_FinalProject_KMR\obj\Debug\CS311_FinalProject_KMR.exe
+c:\users\li915d\documents\visual studio 2013\Projects\CS311_FinalProject_KMR\CS311_FinalProject_KMR\obj\Debug\CS311_FinalProject_KMR.xml
+c:\users\li915d\documents\visual studio 2013\Projects\CS311_FinalProject_KMR\CS311_FinalProject_KMR\obj\Debug\CS311_FinalProject_KMR.pdb
